@@ -3,6 +3,7 @@
 
 This repository contains the middle report, final report, scripts for dowloading the data and implemenation of books recommendation system.
 
+Not all the files could be uploaded to GitHub becuase of upload size limitations
 Since the files were too big, I have uploaded the material on my Google drive. 
 
 Below is the link for my Google drive:
